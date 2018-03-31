@@ -3,6 +3,7 @@
   <display-name>EJB1</display-name>
   <welcome-file-list>
     <welcome-file>index.html</welcome-file>
+	Dong 1
     <welcome-file>index.htm</welcome-file>
     <welcome-file>index.jsp</welcome-file>
 	Dong 4
@@ -11,6 +12,10 @@
     <welcome-file>default.htm</welcome-file>
 	Dong 6
 	Dong 7
+	Dong 3
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+	Dong 5
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
 </web-app>
