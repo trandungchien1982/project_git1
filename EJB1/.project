@@ -1,3 +1,4 @@
+Edit line 1
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 	<name>EJB1</name>
@@ -29,3 +30,4 @@
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
 </projectDescription>
+Edit last line
