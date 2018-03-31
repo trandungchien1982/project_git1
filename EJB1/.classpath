@@ -15,7 +15,12 @@
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="output" path="build/classes"/>
 	<classpathentry kind="output" path="build/classes1"/>
+	<classpathentry kind="output" path="build/classes2"/>
+	<classpathentry kind="output" path="build/classes3"/>
+	<classpathentry kind="output" path="build/classes4"/>
 </classpath>
 
 <a>test</a>
 <br>ngoai ra</br>
+<br>ngoai ra 1</br>
+<br>ngoai ra 2</br>
