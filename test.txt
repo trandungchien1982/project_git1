@@ -3,7 +3,7 @@
   <display-name>EJB1</display-name>
   <welcome-file-list>
     <welcome-file>index.html</welcome-file>
-	Dong 1
+	Dong 1, 1, 2
     <welcome-file>index.htm</welcome-file>
     <welcome-file>index.jsp</welcome-file>
 	Dong 4
