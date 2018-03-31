@@ -27,5 +27,6 @@
 	Vang trang 04
 	
 	Biet noi gi day 1 - HOI NGUOI CON NHO
+	- CHO VAO NHANH THU BA
   </welcome-file-list>
 </web-app>
