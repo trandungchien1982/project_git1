@@ -17,5 +17,7 @@
     <welcome-file>default.htm</welcome-file>
 	Dong 5
     <welcome-file>default.jsp</welcome-file>
+	Cho vua n guoi di
+	Nua dem
   </welcome-file-list>
 </web-app>
