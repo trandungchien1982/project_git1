@@ -14,4 +14,8 @@
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="output" path="build/classes"/>
+	<classpathentry kind="output" path="build/classes1"/>
 </classpath>
+
+<a>test</a>
+<br>ngoai ra</br>
