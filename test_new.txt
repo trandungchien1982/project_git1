@@ -28,5 +28,8 @@
 	
 	Biet noi gi day 1 - HOI NGUOI CON NHO
 	- CHO VAO NHANH THU BA
+	
+	Update bên NHANH_MOI 1
+	Update bên NHÁNH_MỚI 2
   </welcome-file-list>
 </web-app>
