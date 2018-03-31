@@ -26,6 +26,6 @@
 	Vang trang 03
 	Vang trang 04
 	
-	Biet noi gi day 1 
+	Biet noi gi day 1 - HOI NGUOI CON NHO
   </welcome-file-list>
 </web-app>
