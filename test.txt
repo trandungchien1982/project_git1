@@ -27,5 +27,8 @@
 	Vang trang 04
 	
 	Biet noi gi day 1
+	
+	Them vao cho BRANCH 1
+	Them vao cho BRANCH 2
   </welcome-file-list>
 </web-app>
