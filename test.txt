@@ -30,5 +30,8 @@
 	
 	Them vao cho BRANCH 1
 	Them vao cho BRANCH 2
+	
+	Them vao cho BRANCH 3
+	Them vao cho BRANCH 4
   </welcome-file-list>
 </web-app>
