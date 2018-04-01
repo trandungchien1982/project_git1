@@ -27,5 +27,8 @@
 	Vang trang 04
 	
 	Biet noi gi day 1
+	
+	Thong tin Master 1
+	Thong tin Master 2
   </welcome-file-list>
 </web-app>
