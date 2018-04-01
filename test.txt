@@ -30,5 +30,8 @@
 	
 	Thong tin Master 1
 	Thong tin Master 2
+	
+	Thong tin Master 3
+	Thong tin Master 4
   </welcome-file-list>
 </web-app>
